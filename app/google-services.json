@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1025952937144",
+    "firebase_url": "https://healthkit.firebaseio.com",
+    "project_id": "project-25927932621169391",
+    "storage_bucket": "project-25927932621169391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025952937144:android:004582d345cbe0de",
+        "android_client_info": {
+          "package_name": "com.example.maddi.fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025952937144-hhj5jh8pt1jc72odo926ie6041ntpr8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maddi.fitness",
+            "certificate_hash": "3fde280504e95db43ddcf80ea2bec9b6c0e324fc"
+          }
+        },
+        {
+          "client_id": "1025952937144-vd4u3qs1l9r9af0b33hkq16jtjm2h0o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl2Sm3mhjqaz6MJAPdEfrvm-T7BgfXO_Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025952937144-vd4u3qs1l9r9af0b33hkq16jtjm2h0o9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025952937144-3251eulvjp6huhf140oipo7vt15om7u7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "syr-rahulmaddineni.Cal-Zone"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
